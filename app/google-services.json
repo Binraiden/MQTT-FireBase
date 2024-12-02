@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47395949137",
+    "project_id": "proyectomqtt-firebase",
+    "storage_bucket": "proyectomqtt-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47395949137:android:5fa203b6980706df3b8670",
+        "android_client_info": {
+          "package_name": "com.stomas.mqtt_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk3pZY8EAHLm53aPTZDo8Z5BOMQs_e63I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
